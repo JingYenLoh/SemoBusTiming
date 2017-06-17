@@ -1,5 +1,6 @@
 "use strict";
 
+// dem requires
 var builder = require("botbuilder");
 var botbuilder_azure = require("botbuilder-azure");
 var request = require("request");//Json Reader Requires
