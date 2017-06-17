@@ -1,0 +1,8 @@
+{
+  "name": "SemoBusTiming",
+  "version": "0.1.0",
+  "description": "Bot Framework Workshop",
+  "main": "index.js",
+  "author": "Jing Yen Loh",
+  "license": "MIT"
+}
